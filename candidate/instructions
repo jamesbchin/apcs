@@ -1,0 +1,13 @@
+Work 14: 11/14
+posted 6 hours ago by JonAlf Dyrland-Weaver
+
+    Download Candidate.java, CandidatePoolTest.java CandidatePool_Skeleton.java from the source code section.
+    Look at Candidate.java and read the comment at the top
+    Look at CandidatePool_Skeleton.java and read the comment at the top
+        CandidatePool contains three methods that you must complete
+        Write these methods and change the file name from CandidatePool_Skeleton.java to CandidatePool.java
+    You do not need to modify CandidatePoolTest.java at all, it only contains a main method that will test your solutions to the methods in CandidatePool
+    Compile the three .java files and run CandidatePoolTest (the only file with a main method), to check your work.
+    ONLY SUBMIT CandidatePool.java
+
+Submit this as candidate-pool
