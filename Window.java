@@ -50,7 +50,7 @@ public class Window {
     
     }
     
-    public void enlarge( int ULrow, int ULcol, int numRows, int numCols, int factor ) {
+  public void enlarge( int ULrow, int ULcol, int numRows, int numCols, int factor ) {
 
     int [][] save = new int[numRows][numCols];
     
@@ -68,10 +68,11 @@ public class Window {
       for (r = ULrow; r < ULrow + numRows - 1; r++) {
         for (c = ULcol; c < ULcol + numCols - 1; c++) {
           
+          
         }
       }
     }
-    }
+  }
     
     public static void main(String[] args) {
 
